@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hello, I'm Ohata! 👋
 
-<!--
-**ohata-ds/ohata-ds** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+As a data scientist and data engineer at a retail company, I provide unique insights into how data is utilized from a data science perspective.
 
-Here are some ideas to get you started:
+小売企業のデータサイエンティスト兼データエンジニアとして、データサイエンスの観点からデータの活用方法についてユニークな洞察を提供しています。投稿や資料は個人の見解であり、所属組織の立場を代表するものではありません
+## Skills
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Languages**: SQL, Python
+- **Tools**: PowerBI, PowerPlatform, MicrosoftAzure, VS Code
+
+## Connect with me
+
+<p align="left">
+
+<a href="https://x.com/ohata_ds" target="blank"><img align="center" src="https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png&color=000000" alt="https://x.com/ohata_ds" /></a>
+<a href="https://speakerdeck.com/ohata_ds" target="blank"><img align="center" src="https://img.icons8.com/?size=50&id=p8rBZlFjgeQ8&format=png&color=009287" alt="https://speakerdeck.com/ohata_ds" /></a>
+
+</p>
