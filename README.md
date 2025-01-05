@@ -12,7 +12,7 @@ As a data scientist and data engineer at a retail company, I provide unique insi
 
 <p align="left">
 
-<a href="https://x.com/ohata_ds" target="blank"><img align="center" src="https://img.icons8.com/?size=50&id=phOKFKYpe00C&format=png&color=000000" alt="https://x.com/ohata_ds" /></a>
+<a href="https://x.com/ohata_ds" target="blank"><img align="center" src="https://img.icons8.com/?size=50&id=6Fsj3rv2DCmG&format=png&color=000000" alt="https://x.com/ohata_ds" /></a>
 <a href="https://speakerdeck.com/ohata_ds" target="blank"><img align="center" src="https://img.icons8.com/?size=50&id=p8rBZlFjgeQ8&format=png&color=009287" alt="https://speakerdeck.com/ohata_ds" /></a>
 
 </p>
