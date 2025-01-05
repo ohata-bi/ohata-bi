@@ -10,6 +10,11 @@ As a data scientist and data engineer at a retail company, I provide unique insi
 
 ## Connect with me
 
+## Connect with me
+
+- [Twitter](https://x.com/ohata_ds)
+- [Speaker Deck](https://speakerdeck.com/ohata_ds)
+
 <p align="left">
 
 <a href="https://x.com/ohata_ds" target="blank"><img align="center" src="https://img.icons8.com/?size=50&id=6Fsj3rv2DCmG&format=png&color=000000" alt="https://x.com/ohata_ds" /></a>
