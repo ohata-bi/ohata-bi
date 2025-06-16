@@ -1,26 +1,30 @@
 # Hello, I'm Ohata! 👋
 
-As a data scientist and data engineer at a retail company, I provide unique insights into how data is utilized from a data science perspective.
+### 📺 YouTube Channel
 
-小売企業のデータサイエンティスト兼データエンジニアとして、データサイエンスの観点からデータの活用方法についてユニークな洞察を提供しています。
+小売企業でデータサイエンティスト兼データエンジニアとして働く傍ら、[**DX塾**](https://www.youtube.com/@DX_Study) というYouTubeチャンネルを運営しています。
+
+Power BIやPower Platformなどのマイクロソフトソリューションを活用した、ビジネス現場でのデータ活用やデジタルトランスフォーメーション（DX）に関する実践的な知見やチュートリアルを発信しています。
 
 投稿や資料は個人の見解であり、所属組織の立場を代表するものではありません。
+
+I’m a data scientist and data engineer at a retail company, and I run a YouTube channel called [**DX Study**](https://www.youtube.com/@DX_Study). There, I share practical insights and tutorials on data utilization, digital transformation (DX), and Microsoft solutions such as Power BI and the Power Platform—based on real-world business experience.
+
+## Connect with me
+
+- [YouTubeチャンネル【DX塾】](https://www.youtube.com/@DX_Study)
+- [Twitter](https://x.com/ohata_ds)
+
+<p align="left">
+<a href="https://www.youtube.com/@DX_Study" target="blank"><img align="center" src="https://img.icons8.com/color/48/youtube-play.png" alt="https://speakerdeck.com/ohata_ds" /></a>
+<a href="https://x.com/ohata_ds" target="blank"><img align="center" src="https://img.icons8.com/?size=50&id=bG29Ckcdp6YP&format=png&color=000000" alt="https://x.com/ohata_ds" /></a>
+</p>
 
 ## Skills
 
 - **Languages**: SQL, Python
 - **Tools**: PowerBI, Power Platform, Microsoft Azure, VS Code
 
-## Connect with me
 
-- [Twitter](https://x.com/ohata_ds)
-- [Speaker Deck](https://speakerdeck.com/ohata_ds)
-
-<p align="left">
-
-<a href="https://x.com/ohata_ds" target="blank"><img align="center" src="https://img.icons8.com/?size=50&id=bG29Ckcdp6YP&format=png&color=000000" alt="https://x.com/ohata_ds" /></a>
-<a href="https://speakerdeck.com/ohata_ds" target="blank"><img align="center" src="https://img.icons8.com/?size=50&id=p8rBZlFjgeQ8&format=png&color=009287" alt="https://speakerdeck.com/ohata_ds" /></a>
-
-</p>
 
 Icons by [Icons8](https://icons8.com/)
