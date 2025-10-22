@@ -2,7 +2,7 @@
 
 ### 📺 YouTube Channel
 
-小売企業でデータサイエンティスト兼データエンジニアとして働く傍ら、[**DX塾**](https://www.youtube.com/@DX_Study) というYouTubeチャンネルを運営しています。
+小売企業で働くBIエンジニア／データエンジニア／データサイエンティスト｜YouTube[**DX塾**](https://www.youtube.com/@DX_Study) を運営中
 
 Power BIやPower Platformなどのマイクロソフトソリューションを活用した、ビジネス現場でのデータ活用やデジタルトランスフォーメーション（DX）に関する実践的な知見やチュートリアルを発信しています。
 
