@@ -13,10 +13,10 @@ I’m a data scientist and data engineer at a retail company, and I run a YouTub
 ## Connect with me
 
 - [YouTubeチャンネル【DX塾】](https://www.youtube.com/@DX_Study)
-- [Twitter](https://x.com/ohata_ds)
+- [Twitter](https://x.com/ohata_bi)
 
 <p align="left">
-<a href="https://www.youtube.com/@DX_Study" target="blank"><img align="center" src="https://img.icons8.com/color/48/youtube-play.png" alt="https://speakerdeck.com/ohata_ds" /></a>
+<a href="https://www.youtube.com/@DX_Study" target="blank"><img align="center" src="https://img.icons8.com/color/48/youtube-play.png" alt="https://www.youtube.com/@DX_Study" /></a>
 <a href="https://x.com/ohata_ds" target="blank"><img align="center" src="https://img.icons8.com/?size=50&id=bG29Ckcdp6YP&format=png&color=000000" alt="https://x.com/ohata_bi" /></a>
 </p>
 
