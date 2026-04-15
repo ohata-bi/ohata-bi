@@ -17,7 +17,3 @@ All posts and materials represent my personal views and do not reflect the offic
 
 - **Languages**: SQL, Python
 - **Tools**: PowerBI, Power Platform, Microsoft Azure, VS Code
-
-
-
-Icons by [Icons8](https://icons8.com/)
