@@ -1,22 +1,17 @@
 # Hello, I'm Ohata! 👋
 
-### 📺 YouTube Channel
+## Profile
 
-小売企業で働くBIエンジニア／データエンジニア／データサイエンティスト｜YouTube[**DX塾**](https://www.youtube.com/@DX_Study) を運営中
-
-Power BIやPower Platformなどのマイクロソフトソリューションを活用した、ビジネス現場でのデータ活用やデジタルトランスフォーメーション（DX）に関する実践的な知見やチュートリアルを発信しています。
+エンドツーエンドのデータアーキテクトです。  
+データ可視化、データ基盤の設計・運用、データサイエンス、AI 活用までを一貫して担当しています。  
+また、Power BI を中心とした YouTube チャンネルを運営しています。
 
 投稿や資料は個人の見解であり、所属組織の立場を代表するものではありません。
 
-I’m a data scientist and data engineer at a retail company, and I run a YouTube channel called [**DX Study**](https://www.youtube.com/@DX_Study). There, I share practical insights and tutorials on data utilization, digital transformation (DX), and Microsoft solutions such as Power BI and the Power Platform—based on real-world business experience.
-
-## Connect with me
-
-- [YouTubeチャンネル【DX塾】](https://www.youtube.com/@DX_Study)
-
-<p align="left">
-<a href="https://www.youtube.com/@DX_Study" target="blank"><img align="center" src="https://img.icons8.com/color/48/youtube-play.png" alt="https://www.youtube.com/@DX_Study" /></a>
-</p>
+I’m an end-to-end data architect.  
+I work across data visualization, data platform design & operations, data science, and AI enablement in an end‑to‑end manner.  
+I also run a YouTube channel focused on Power BI.  
+All posts and materials represent my personal views and do not reflect the official position of my employer.
 
 ## Skills
 
